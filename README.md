@@ -2,7 +2,7 @@
 ## GitHub
 *syed maqbooll*\
 **AHMED**\
-***Hello bro***\
+***Hello bro***
 ### GitHub Main Concept
 * Branch
 * full Request
@@ -14,7 +14,7 @@
 4. Push
 5. Pull
 6. Stop\
-~~my name~~\
+~~my name~~
 - [x] complete
 - [ ] INC
 - [X] Js\
